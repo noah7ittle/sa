@@ -9,6 +9,10 @@
 # the `language` matrix defined below to confirm you have the correct set of
 # supported CodeQL languages.
 #
+
+- name: Qodana - Code Inspection
+  uses: JetBrains/qodana-action@v2.2.1-eap
+
 name: "CodeQL"
 
 on:
