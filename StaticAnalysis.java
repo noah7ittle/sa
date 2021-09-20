@@ -1,4 +1,6 @@
 /* Java program for Static Analysis.*/
+- name: Qodana - Code Inspection
+  uses: JetBrains/qodana-action@v2.2.1-eap
 
 
 public class StaticAnalysis
