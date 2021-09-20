@@ -6,7 +6,7 @@ public class StaticAnalysis
     {
         calculateCost(5, 10, "Electronics");
         String value =  calculateCost(2, 3, "Clothing");
-        System.out.println(value);
+        S
     }
 
     public StaticAnalysis()
